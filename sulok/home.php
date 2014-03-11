@@ -1,7 +1,3 @@
 <?php
-
-
-
-kcbaskjcbkasbckbas
-
+echo "hi";
 ?>
