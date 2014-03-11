@@ -1,4 +1,4 @@
 <?php
-echo "hi";
 echo "yo yo testing";
+echo "not configure";
 ?>
