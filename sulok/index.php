@@ -1,5 +1,7 @@
 <?php
 
-echo "sulok";
+
+
+kcbaskjcbkasbckbas
 
 ?>
